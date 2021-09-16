@@ -6,8 +6,7 @@ Features:
 - 2 sizes, smaller one has 2 pixel descent instead of 3, thus is more vertically condensed.
 - Supports ranger devicons, nerdtree icons, powerline etc.
 
-.otb format for compatibility with pango 1.44+
-.txt file with icons if you want to copy-paste
+.otb format for compatibility with pango 1.44+   .txt file with icons if you want to copy-paste
 
 
 **bitrain:**
