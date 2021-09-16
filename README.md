@@ -10,12 +10,14 @@ Features:
 
 
 **bitrain:**
-
+It is inspired by water droplets
 ![Screenshot A](https://raw.githubusercontent.com/oredaze/font-bitrain_font-cracked/main/screenshots/bitrain.png)
+
 
 **cracked:**
 
 ![Screenshot B](https://raw.githubusercontent.com/oredaze/font-bitrain_font-cracked/main/screenshots/cracked.png)
+
 
 **Icons:**
 
