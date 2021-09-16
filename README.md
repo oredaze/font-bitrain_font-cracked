@@ -4,13 +4,7 @@ Monospaced bitmap programming fonts with unicode support and lots of icons.
 2 sizes, smaller one has 2 pixel descent instead of 3, thus is more vertically condensed. 
 
 .otb format for compatibility with pango 1.44+
-
 .txt file with icons if you want to copy-paste
-
-Note that not all glyphs are present in the previews. Mostly accented characters and... 
-
-half of braille. Yeah I almost went blind making that, so I gave up :)
-
 
 **bitrain:**
 
@@ -24,4 +18,7 @@ half of braille. Yeah I almost went blind making that, so I gave up :)
 
 ![Screenshot C](https://raw.githubusercontent.com/oredaze/font-bitrain_font-cracked/main/screenshots/icons.png)
 
-_Some icon glyphs might be out of place or have new, non-existing ones._
+Notes:
+- Some icon glyphs might be out of place or have new, non-existing ones.
+- Not all glyphs are present in the previews. Mostly accented characters and...
+  half of braille. Yeah I almost went blind making that, so I gave up :)
