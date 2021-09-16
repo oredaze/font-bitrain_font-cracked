@@ -6,6 +6,8 @@ Monospaced bitmap programming fonts with unicode support and lots of icons.
 .otb format for compatibility with pango 1.44+
 .txt file with icons if you want to copy-paste
 
+Supports ranger devicons, nerdtree icons, powerline etc.
+
 **bitrain:**
 
 ![Screenshot A](https://raw.githubusercontent.com/oredaze/font-bitrain_font-cracked/main/screenshots/bitrain.png)
