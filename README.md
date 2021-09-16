@@ -26,8 +26,9 @@ It is inspired by water droplets
 ![Screenshot C](https://raw.githubusercontent.com/oredaze/font-bitrain_font-cracked/main/screenshots/icons.png)
 
 Notes:
-- Some icon glyphs might be out of place or have new, non-existing ones.
+- Some icon glyphs might be out of place, in the past I didn't know what I was doing.
+- Some of the icons (mostly in the private set) are not used anywhere, I just wanted to have more stuff.
 - Not all glyphs are present in the previews. Mostly accented characters and...
   half of braille. Yeah I almost went blind making that, so I gave up :)
 - In some places (like gvim) the fonts are detected as 9 and 10 pixels, I don't know why. All works fine though.
-- Made for personal use, but here you go... Give me some tips, I don't know what I am doing :)
+- Made for personal use, but here you go... Report problems if you want.
