@@ -21,7 +21,7 @@ It is inspired by water droplets
 ![Screenshot B](https://raw.githubusercontent.com/oredaze/font-bitrain_font-cracked/main/screenshots/cracked.png)
 
 
-**Icons:**
+**Icons, box drawing & stuff:**
 
 ![Screenshot C](https://raw.githubusercontent.com/oredaze/font-bitrain_font-cracked/main/screenshots/icons.png)
 
