@@ -26,3 +26,4 @@ Notes:
 - Not all glyphs are present in the previews. Mostly accented characters and...
   half of braille. Yeah I almost went blind making that, so I gave up :)
 - In some places (like gvim) the fonts are detected as 9 and 10 pixels, I don't know why. All works fine though.
+- Made for personal use, but here you go... Give me some tips, I don't know what I am doing :)
