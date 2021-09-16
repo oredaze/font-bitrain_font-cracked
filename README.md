@@ -9,12 +9,15 @@ Note that not all glyphs are present in the previews. Mostly accented characters
 half of braille. Yeah I almost went blind making that, so I gave up :)
 
 **bitrain:**
+
 ![Screenshot A](https://raw.githubusercontent.com/oredaze/font-bitrain_font-cracked/main/screenshots/bitrain.png)
 
 **cracked:**
+
 ![Screenshot B](https://raw.githubusercontent.com/oredaze/font-bitrain_font-cracked/main/screenshots/cracked.png)
 
 **Icons:**
+
 ![Screenshot C](https://raw.githubusercontent.com/oredaze/font-bitrain_font-cracked/main/screenshots/icons.png)
 
-__Some icon glyphs might be out of place or have new, non-existing ones.__
+_Some icon glyphs might be out of place or have new, non-existing ones._
